@@ -1,6 +1,6 @@
 # 🎣 Phishing Awareness Landing Page
 
-This is a **mock phishing awareness landing page** designed for educational purposes during a cybersecurity minor project under Eddiglobe.
+This is a **mock phishing awareness landing page** designed for educational purposes during a cybersecurity minor project under Ediglobe.
 
 When a user clicks a fake phishing email link, they are redirected here and informed that they were part of a simulated phishing test — helping raise awareness on how phishing works and how to avoid falling for it.
 
@@ -39,9 +39,8 @@ Raise awareness among users about phishing threats by showing them what could ha
 ## 🌐 Live Demo
 
 Check the deployed page here:  
-👉 [https://your-vercel-url.vercel.app](https://your-vercel-url.vercel.app) *(Replace with your actual Vercel URL)*
+👉 https://phishing-awareness-fake-mails.vercel.app
 
 ---
 
-## 📂 Folder Structure
 
